@@ -1,4 +1,4 @@
-# Budgeteer
+# Fintrospect
 
 A sophisticated personal finance management application that helps you track expenses, analyze spending patterns, and manage your financial health across multiple currencies and accounts.
 
